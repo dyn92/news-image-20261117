@@ -1,5 +1,9 @@
 # news-image-20261117
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/dyn92/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/dyn92/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 [make.fun](https://make.fun) · [Bounty: news-image-20261117](https://make.fun/bounty/news-image-20261117) · $250 in USDC
 
 A program that draws a 1024x1024 newspaper poster summing up Tuesday 17 November 2026 in one image: a dated header plus six story panels (Kerch bridge, Iran drones at Bahrain, the Xi-Trump-Putin summit, Japan scrambling fighters, UK sanctions on settlement builders, and the US emergency alert test), each with a hand-drawn pictogram, a headline and one factual sub-label. Pure Python standard library, no network, byte-identical output on every run.
